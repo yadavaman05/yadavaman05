@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm Aman Yadav 👋
+  Hi there, I'm Aman Kumar Yadav 👋
 </h1>
 
 <p align="center">
@@ -18,8 +18,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false" alt="streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amanyadav001&show_icons=true&theme=radical" alt="stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amanyadav001&theme=radical&hide_border=false" alt="streak" height="165"/>
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanyadav001&theme=radical&hide_border=true" alt="activity graph"/>
 </p>
 
 ---
@@ -46,4 +53,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
