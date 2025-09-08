@@ -47,7 +47,7 @@
   <a href="https://codeforces.com/profile/amanyadav001"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
 
---
+---
 
 ### ⚡ Fun Animation
 <p align="center">
