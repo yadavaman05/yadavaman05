@@ -14,26 +14,29 @@
 ## 🚀 About Me
 - 🌱 Currently learning **Web Development, AI & Machine Learning**
 - 💻 Comfortable with **Python, Java, JavaScript, MySQL, MongoDB, Firebase**
-- 🎯 Actively improving **Competitive Programming** and contributing to **Open Source**
+- 🎯 Improving **Competitive Programming** and contributing to **Open Source**
 - ☕ Fun fact: Debugging feels faster with coffee
 
 ---
 
 ## 📊 GitHub Stats
+<!-- OPTIONAL: If this image does not load in your region, you can safely remove this section -->
+
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=amanyadav001&show_icons=true&theme=radical&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=amanyadav001&show_icons=true" 
     alt="GitHub Stats"
   />
 </p>
 
-
 ---
 
 ## 📈 Contribution Activity
+<!-- OPTIONAL: This may not load due to GitHub restrictions -->
+
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=amanyadav001&theme=radical&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=amanyadav001" 
     alt="Contribution Graph"
   />
 </p>
@@ -72,9 +75,15 @@
 ---
 
 ## 🐍 Contribution Snake
+<!-- OPTIONAL: Remove if not loading -->
+
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" 
     alt="GitHub Contribution Snake Animation"
   />
 </p>
+
+---
+
+⭐ *Always learning, building, and improving one step at a time.*
