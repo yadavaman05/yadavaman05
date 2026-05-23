@@ -32,7 +32,6 @@ Role:
 Currently Learning:
    - MERN Stack
    - Machine Learning
-   - System Design
    - DSA
 
 Goal 2026:
